@@ -1,9 +1,7 @@
 "use client";
 
 import Link from "next/link";
-
 import { itemsNavbar } from "@/data";
-
 import { usePathname } from "next/navigation";
 import MotionTransition from "./transition-component";
 
